@@ -1,8 +1,5 @@
 import requests
-
-# import html to strip html encoding from the response
 import html
-
 import random
 import json
 
