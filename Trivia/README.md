@@ -1,6 +1,6 @@
 # Trivia Console APP
 
-:jigsaw: As my first Python project, I have chosen to create a **Trivia** console app using **Trivia API**. I was going on a short trip with my friends, and I thought it would be fun to play it while we were away.
+:jigsaw: As my first Python project, I decided to create a **Trivia** console app using **Trivia API**. I was going on a short trip with my friends, and I thought it would be fun to play it while we were away.
 
 :grey_question: This game generates questions of varied difficulty for the user from the the Trivia API database. Amount of questions and category can be changed. 
 Once the round is complete, the app writes the questions, user answers and correct answers into a text file, which also contains the score for the game and total number of questions.
